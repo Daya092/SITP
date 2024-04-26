@@ -73,10 +73,10 @@ int SITP()
             printf("Estas son las paradas del F718:\n%s\n", F718);
         }
         else if (strcmp(Ruta2, "F401") == 0) {
-            printf("Estas son las paradas del F718:\n%s\n", F401);
+            printf("Estas son las paradas del F401:\n%s\n", F401);
         }
         else if (strcmp(Ruta2, "G502") == 0) {
-            printf("Estas son las paradas del F718:\n%s\n", G502);
+            printf("Estas son las paradas del G502:\n%s\n", G502);
         }
         
     }
